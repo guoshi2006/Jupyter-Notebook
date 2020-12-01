@@ -1,4 +1,5 @@
 [Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed/)
+[B站视频](https://www.bilibili.com/video/BV1d7411w7hc)
 
 ### 命令模式 
 蓝色 编辑模式进入命令模式：ESC
