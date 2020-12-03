@@ -8,37 +8,20 @@
 ### 编辑模式
 绿色 命令模式进入编辑模式：Enter
 
-
 ```python
 print("hello world!")
 ```
-
     hello world!
     
-
-
 ```python
 sum(range(101))
 ```
-
-
-
-
     5050
-
-
-
 
 ```python
 1 + 2
 ```
-
-
-
-
     3
-
-
 
 ### 快捷键
 
